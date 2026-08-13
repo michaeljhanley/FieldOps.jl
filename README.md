@@ -40,7 +40,7 @@ See https://github.com/michaeljhanley/VectorCalculus.jl/blob/main/CONTRIBUTING.m
 
 ## Development Notes
 
-Development of this package used LLM assistance for architecture/pseudocode outlining and as a source of feedback while debugging. All implementation code was manually written by the maintainer and has been reviewed line-by-line.
+Initial development of this package incorporated LLMs as a targeted writing and debugging aid. Generative tools helped draft docstrings and format LaTeX and KaTeX equations for the documentation. They also provided a second opinion on architecture, logic, and syntax while assisting with bug fixes. No autonomous agents were used. Every line was typed or pasted in manually, and all code was thoroughly verified before committing.
 
 ## License
 
